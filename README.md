@@ -1,2 +1,3 @@
-# roomies
-an app to help people find roommates and rooms
+# testProject
+
+a [Sails](http://sailsjs.org) application
